@@ -11,3 +11,5 @@
 - MarkdownLivePreview
 - SideBarEnhancements
 - TrailingSpaces
+- SublimeREPL
+- Git
