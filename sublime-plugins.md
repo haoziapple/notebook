@@ -1,8 +1,8 @@
-#Sublime 插件安装配置
+# Sublime 插件安装配置
 
-##[Sublime官网](http://www.sublimetext.com/)
+## [Sublime官网](http://www.sublimetext.com/)
 
-##安装插件
+## 安装插件
 - Package Control
 - Emmet
 - Goto-CSS-Declaration
