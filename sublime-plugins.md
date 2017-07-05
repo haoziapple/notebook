@@ -13,3 +13,4 @@
 - TrailingSpaces
 - SublimeREPL
 - Git
+- HTML-CSS-JS Prettify
