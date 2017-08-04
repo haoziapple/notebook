@@ -1,0 +1,10 @@
+# VScode插件安装配置
+Java Debugger
+Language Support for Java(TM) by Red Hat
+Markdown All in One
+Markdown PDF
+npm
+npm Intellisense
+Vue 2 Snippets
+open-in-browser
+Quokka.js
