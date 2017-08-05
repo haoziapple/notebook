@@ -8,3 +8,4 @@
 - Vue 2 Snippets
 - open-in-browser
 - Quokka.js
+- Vetur
