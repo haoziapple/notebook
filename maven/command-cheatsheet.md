@@ -22,3 +22,6 @@
 > mvn deploy:deploy-file -DgroupId=com.fzrj.framework -Dversion=1.0.0 -Dpackaging=jar -DartifactId=starter-parent-archtype -Dfile=F:\gitProject\spring_demo\archetype\target\starter-parent-archetype-1.0.0.jar -Durl=http://10.108.26.220:8081/nexus/content/repositories/thirdparty/ -DrepositoryId=nexus-service
 
 > pom.xml里配置了distributionManagement的话可以简单的使用mvn deploy
+
+## 部署第三方jar包到Maven
+> mvn deploy:deploy-file -DgroupId=com.demo -DartifactId=demo-project -Dversion=1.0.0 -Dpackaging=jar -Dfile=**.jar -Durl=http://10.108.26.220:8081/nexus/content/repositories/thirdparty/ -DrepositoryId=thirdparty
