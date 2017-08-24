@@ -23,3 +23,11 @@ historyList.add(new BuyData()
 String[] array = new String[list.size()];
 array = list.toArray(array);
 ```
+
+## 配置bean里无法注入Environment
+- 实现EnvironmentAware，参考StackOverflow上的回答:
+- [Spring Boot - Environment @Autowired throws NullPointerException](https://stackoverflow.com/questions/19454289/spring-boot-environment-autowired-throws-nullpointerexception)
+
+## IDEA对于provided的依赖的bug
+- [Idea下运行Spring Boot关于provided依赖不加入classpath的bug与解决方案](http://blog.csdn.net/neosmith/article/details/50924681)
+- [解决intellij中spring boot工程 无法用mainApplication启动问题](http://blog.csdn.net/u012263647/article/details/55504840)
