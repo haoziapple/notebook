@@ -14,6 +14,30 @@ historyList.add(new BuyData()
 	}
 });
 ```
+## 使用Gson序列化bean时，使用匿名内部类的问题：下面的代码将返回null
+```java
+Gson gson = new Gson();
+String jsonStr = gson.toJson(new SubmitOrderInfo() {
+    {
+    	setId("id");
+    	setToken("token");
+    	setUserId("userId");
+    	setTotalPrice("totalPrice");
+	}
+});
+```
+- 修改方法，添加类型信息
+```java
+Gson gson = new Gson();
+String jsonStr = gson.toJson(new SubmitOrderInfo() {
+    {
+    	setId("id");
+    	setToken("token");
+    	setUserId("userId");
+    	setTotalPrice("totalPrice");
+	}
+}, SubmitOrderInfo.class);
+```
 
 ## 基本数据类型与包装数据类型
 > POJO类属性必须使用包装数据类型，null值能够显示额外信息-阿里java规范
