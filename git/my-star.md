@@ -20,6 +20,9 @@
 - [elastic-job](https://github.com/dangdangdotcom/elastic-job)
 - [niubi-job](https://github.com/xiaolongzuo/niubi-job)
 
+## Framework
+- [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)
+
 ## 学习项目
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
 - [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
@@ -30,3 +33,7 @@
 - [storyteller-microservices:使用springcloud的示例项目](https://github.com/codependent/storyteller-microservices)
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
 - [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
+
+## Just For Fun
+- [XiaoV, 一个用 Java 写的 QQ 聊天机器人 Web 服务(可能用于监控服务的自动报警功能)](https://github.com/b3log/xiaov)
+- [基于 Smart QQ（Web QQ） 的 Api 封装](https://github.com/ScienJus/smartqq)
