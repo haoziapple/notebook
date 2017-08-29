@@ -55,3 +55,10 @@ array = list.toArray(array);
 ## IDEA对于provided的依赖的bug
 - [Idea下运行Spring Boot关于provided依赖不加入classpath的bug与解决方案](http://blog.csdn.net/neosmith/article/details/50924681)
 - [解决intellij中spring boot工程 无法用mainApplication启动问题](http://blog.csdn.net/u012263647/article/details/55504840)
+
+## maven部署接口到私服的问题
+> 暴露接口的时候，需要把接口intf模块部署到私服，如果父模块没有部署的话会导致引入依赖报错
+
+**解决方法：**
+1. 在父模块执行mvn deploy，但要把modules里不想部署的模块暂时去除
+2. intf模块独立出来，不要与其他模块共享父模块，单独执行mvn deploy
