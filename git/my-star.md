@@ -24,11 +24,12 @@
 - [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)
 
 ## 工具
+- [Guava: Google Core Libraries for Java](https://github.com/google/guava)
 - [Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb](https://github.com/oblac/jodd)
+- [axios:Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 
 ## 学习项目
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
-- [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)
 - [一个cms项目骨架](https://github.com/kangyonggan/cms-archetype)
 - [人人权限系统](https://github.com/sunlightcs/renren-security)
@@ -37,6 +38,15 @@
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
 - [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
 
+## 前端UI
+- [Ant Design](https://github.com/ant-design/ant-design)
+- [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
+- [ng2-admin:Angular admin dashboard framework](https://github.com/akveo/ng2-admin)
+
 ## Just For Fun
 - [XiaoV, 一个用 Java 写的 QQ 聊天机器人 Web 服务(可能用于监控服务的自动报警功能)](https://github.com/b3log/xiaov)
 - [基于 Smart QQ（Web QQ） 的 Api 封装](https://github.com/ScienJus/smartqq)
+- [Hitchhiker:a Restful Api integrated testing tool](https://github.com/brookshi/Hitchhiker)
+
+## awesome star
+- [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
