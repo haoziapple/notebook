@@ -15,3 +15,4 @@
 - Bootstrap 4 & Font awesome snippets
 - HTML CSS Support
 - HTML SNippets
+- Lua
