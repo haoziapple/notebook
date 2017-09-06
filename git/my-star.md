@@ -3,9 +3,6 @@
 ## IDDD Sample Project
 > https://github.com/VaughnVernon/IDDD_Samples
 
-## 免费的编程中文书籍索引
-> https://github.com/justjavac/free-programming-books-zh_CN
-
 ## 龙果支付
 > https://github.com/roncoo/roncoo-pay
 
@@ -28,6 +25,10 @@
 - [Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb](https://github.com/oblac/jodd)
 - [axios:Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 
+## 爬虫
+- [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
+- [weibospider](https://github.com/ResolveWang/weibospider)
+
 ## 学习项目
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)
@@ -43,6 +44,10 @@
 - [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [ng2-admin:Angular admin dashboard framework](https://github.com/akveo/ng2-admin)
 
+## 测试相关
+- [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
+- [pupeteer:Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer)
+
 ## Just For Fun
 - [XiaoV, 一个用 Java 写的 QQ 聊天机器人 Web 服务(可能用于监控服务的自动报警功能)](https://github.com/b3log/xiaov)
 - [基于 Smart QQ（Web QQ） 的 Api 封装](https://github.com/ScienJus/smartqq)
@@ -50,3 +55,8 @@
 
 ## awesome star
 - [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
+- [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
+
+## 电子书籍
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
