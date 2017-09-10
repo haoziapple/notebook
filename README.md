@@ -1,5 +1,6 @@
 # notebook
-my notebook use markdown
+- my notebook use markdown，使用markdown记笔记
+- TODO：与博客整合，与为知笔记整合
 
 ## 笔记草稿
 - [笔记草稿-java](https://github.com/haoziapple/notebook/blob/master/draft.md)
