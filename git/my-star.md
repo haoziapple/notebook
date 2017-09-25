@@ -62,3 +62,10 @@
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+## 算法相关
+- [Path finding in a graph](https://github.com/anvaka/ngraph.path)
+
+## 代码规范
+- [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
+- [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
