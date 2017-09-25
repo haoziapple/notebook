@@ -19,11 +19,14 @@
 
 ## Framework
 - [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)
+- [做最好的接口管理平台DoClever](https://github.com/sx1989827/DOClever)
+- [JEECG 基于代码生成器的智能开发平台](https://github.com/zhangdaiscott/jeecg)
 
 ## 工具
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava)
 - [Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb](https://github.com/oblac/jodd)
 - [axios:Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+- [Rocket.Chat:Have your own Slack like online chat, built with Meteor](https://github.com/RocketChat/Rocket.Chat)
 
 ## 爬虫
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
@@ -38,6 +41,9 @@
 - [storyteller-microservices:使用springcloud的示例项目](https://github.com/codependent/storyteller-microservices)
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
 - [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
+- [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
+- [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
+- [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
 
 ## 前端UI
 - [Ant Design](https://github.com/ant-design/ant-design)
@@ -62,3 +68,10 @@
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+## 算法相关
+- [Path finding in a graph](https://github.com/anvaka/ngraph.path)
+
+## 代码规范
+- [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
+- [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
