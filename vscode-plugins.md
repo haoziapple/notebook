@@ -16,3 +16,5 @@
 - HTML CSS Support
 - HTML SNippets
 - Lua
+- vscode-scheme
+- Lisp(Lisp syntax highlight)
