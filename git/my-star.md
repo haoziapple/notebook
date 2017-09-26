@@ -7,9 +7,9 @@
 > https://github.com/roncoo/roncoo-pay
 
 ## Sonar示例项目
-- https://github.com/SonarSource/sonar-scanning-examples : show how to use the SonarQube Scanners : In Progress
-- https://github.com/SonarSource/sonar-custom-rules-examples : show how to write custom rules : Done
-- https://github.com/SonarSource/sonar-custom-plugin-example : show how to write a SonarQube Plugin compatible with SQ LTS : Done
+- [show how to use the SonarQube Scanners : In Progress](https://github.com/SonarSource/sonar-scanning-examples)
+- [show how to write custom rules : Done](https://github.com/SonarSource/sonar-custom-rules-examples)
+- [show how to write a SonarQube Plugin compatible with SQ LTS : Done](https://github.com/SonarSource/sonar-custom-plugin-example)
 
 ## 计划任务框架
 - [quartz](https://github.com/quartz-scheduler/quartz)
@@ -27,6 +27,8 @@
 - [Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb](https://github.com/oblac/jodd)
 - [axios:Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 - [Rocket.Chat:Have your own Slack like online chat, built with Meteor](https://github.com/RocketChat/Rocket.Chat)
+- [upterm:A terminal emulator for the 21st century](https://github.com/railsware/upterm)
+- [lanproxy:一个将局域网个人电脑、服务器代理到公网的内网穿透工具](https://github.com/ffay/lanproxy)
 
 ## 爬虫
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
@@ -44,6 +46,8 @@
 - [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
 - [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
 - [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+- [Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践](https://github.com/chaokunyang/microservices-event-sourcing)
+- [Jkes is a search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch](https://github.com/chaokunyang/jkes)
 
 ## 前端UI
 - [Ant Design](https://github.com/ant-design/ant-design)
@@ -71,6 +75,10 @@
 
 ## 算法相关
 - [Path finding in a graph](https://github.com/anvaka/ngraph.path)
+- [A Python module for learning all major algorithms](https://github.com/OmkarPathak/pygorithm)
+
+## 设计模式
+- [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 
 ## 代码规范
 - [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
