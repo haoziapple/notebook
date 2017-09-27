@@ -68,6 +68,8 @@
 ## awesome star
 - [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
+- [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+- [轻量高效的开源JavaScript插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
 
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
