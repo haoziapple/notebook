@@ -18,3 +18,4 @@
 - Lua
 - vscode-scheme
 - Lisp(Lisp syntax highlight)
+- ESLint
