@@ -70,7 +70,9 @@
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
 - [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 - [轻量高效的开源JavaScript插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
-
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [树莓派(Raspberry Pi)资源大全中文版](https://github.com/wwj718/awesome-raspberry-pi-zh)
+ 
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
