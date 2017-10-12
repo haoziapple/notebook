@@ -55,6 +55,8 @@
 - [ng2-admin:Angular admin dashboard framework](https://github.com/akveo/ng2-admin)
 - [polymer:Build modern apps using web components](https://github.com/Polymer/polymer)
 - [todomvc:使用不同框架实现了同一个todo应用，学习用](https://github.com/tastejs/todomvc)
+- [Quasar Framework:使用vue的管理台框架](https://github.com/quasarframework/quasar)
+- [Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3](https://github.com/vue-bulma/vue-admin)
 
 ## 测试相关
 - [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
