@@ -7,3 +7,7 @@
 > vue init webpack my-project
 
 ## 指令
+
+## 组件
+- 使用Vue.component定义
+- template:使用属性或是标签定义
