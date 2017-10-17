@@ -65,3 +65,11 @@ array = list.toArray(array);
 **解决方法：**
 1. 在父模块执行mvn deploy，但要把modules里不想部署的模块暂时去除
 2. intf模块独立出来，不要与其他模块共享父模块，单独执行mvn deploy
+
+## 启动和禁用mysql外键约束
+禁用外键约束，我们可以使用:
+> SET FOREIGN_KEY_CHECKS=0;
+启动外键约束，我们可以使用:
+> SET FOREIGN_KEY_CHECKS=1;
+查看当前FOREIGN_KEY_CHECKS的值，可用如下命令：
+> SELECT  @@FOREIGN_KEY_CHECKS; 
