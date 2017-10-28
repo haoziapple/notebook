@@ -16,4 +16,5 @@ Some command-line options
 ## 使用webpack 构建handlebars+jquery+bootstrap的开发环境
 - [segmentfault](https://segmentfault.com/a/1190000011467743)
 - [github-项目地址](https://github.com/tstrilogy/webpack-handlebars-template)
+- uglifyjs-plugin需要sourcemap的支持
 
