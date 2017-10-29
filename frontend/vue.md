@@ -11,3 +11,10 @@
 ## 组件
 - 使用Vue.component定义
 - template:使用属性或是标签定义
+
+## 管理台示例项目
+- [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
+- [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
+- [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+- [Quasar Framework:使用vue的管理台框架](https://github.com/quasarframework/quasar)
+- [Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3](https://github.com/vue-bulma/vue-admin)
