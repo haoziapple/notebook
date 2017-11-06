@@ -31,3 +31,4 @@
 - open-in-browser
 - TortoiseSVN for VS Code
 - Git History(git log)
+- npm Intellisense
