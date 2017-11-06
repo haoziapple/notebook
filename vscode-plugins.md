@@ -19,3 +19,14 @@
 - vscode-scheme
 - Lisp(Lisp syntax highlight)
 - ESLint
+
+# TODO:整理必要的插件
+- vscode-icons:显示文件夹图标
+- Markdown All in One:markdown文件支持
+- Markdown PDF:Convert Markdown to PDF
+- vetur:Vue工具，暂时未能完全使用功能
+- Vue代码提示工具:好像只能有一个起作用
+    - Vue 2 Snippets
+    - VueHelper
+- open-in-browser
+- TortoiseSVN for VS Code
