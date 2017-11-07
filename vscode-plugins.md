@@ -32,3 +32,4 @@
 - TortoiseSVN for VS Code
 - Git History(git log)
 - npm Intellisense
+- Path Intellisense:路径提示
