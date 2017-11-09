@@ -18,3 +18,6 @@ Some command-line options
 - [github-项目地址](https://github.com/tstrilogy/webpack-handlebars-template)
 - uglifyjs-plugin需要sourcemap的支持
 
+
+## webpack引入第三方库的问题
+
