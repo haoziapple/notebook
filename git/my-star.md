@@ -17,6 +17,9 @@
 - [elastic-job](https://github.com/dangdangdotcom/elastic-job)
 - [niubi-job](https://github.com/xiaolongzuo/niubi-job)
 
+## 远程调用框架
+- [weibocom/motan](https://github.com/weibocom/motan)
+
 ## Framework
 - [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)
 - [做最好的接口管理平台DoClever](https://github.com/sx1989827/DOClever)
