@@ -36,3 +36,6 @@ vscode中.vue文件中emmet不起作用
 
 webpack整合handlebars
 - [配置了babel，handlebars，eslint(未写配置文件.eslint.yaml), jquery, bootstrap,sass等](https://github.com/tstrilogy/webpack-handlebars-template)
+
+好玩的项目
+- [Monine/gitstars:一个gitstar项目的管理工具](https://github.com/Monine/gitstars)
