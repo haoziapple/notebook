@@ -25,3 +25,22 @@
 
 ## 部署第三方jar包到Maven
 > mvn deploy:deploy-file -DgroupId=com.demo -DartifactId=demo-project -Dversion=1.0.0 -Dpackaging=jar -Dfile=**.jar -Durl=http://10.108.26.220:8081/nexus/content/repositories/thirdparty/ -DrepositoryId=thirdparty
+
+## 打包可执行jar包
+```xml
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-jar-plugin</artifactId>
+    <configuration>
+        <archive>
+            <manifest>
+                <mainClass>com.guanbao.testzone.App</mainClass>
+                <addClasspath>true</addClasspath>
+                <classpathPrefix>lib/</classpathPrefix>
+            </manifest>
+        </archive>
+        <classesDirectory>
+        </classesDirectory>
+    </configuration>
+</plugin>
+```
