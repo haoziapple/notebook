@@ -51,6 +51,7 @@
 - [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
 - [Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践](https://github.com/chaokunyang/microservices-event-sourcing)
 - [Jkes is a search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch](https://github.com/chaokunyang/jkes)
+- [ng-zorro-antd admin panel front-end framework](https://github.com/cipchk/ng-alain)
 
 ## 前端UI
 - [Ant Design](https://github.com/ant-design/ant-design)
