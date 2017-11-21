@@ -92,3 +92,6 @@
 ## 代码规范
 - [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
 - [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
+
+## Just for Fun
+- [叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目](https://github.com/wzpan/dingdang-robot)
