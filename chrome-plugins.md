@@ -4,3 +4,7 @@
 - JSON Formatter
 - source detecotor
 - Vue.js devtools
+
+- Json-handle
+- Tampermonkey
+- Vimium
