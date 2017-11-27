@@ -1,3 +1,21 @@
+- [收藏的Git Project](#%E6%94%B6%E8%97%8F%E7%9A%84git-project)
+    - [IDDD Sample Project](#iddd-sample-project)
+    - [龙果支付](#%E9%BE%99%E6%9E%9C%E6%94%AF%E4%BB%98)
+    - [Sonar示例项目](#sonar%E7%A4%BA%E4%BE%8B%E9%A1%B9%E7%9B%AE)
+    - [计划任务框架](#%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E6%A1%86%E6%9E%B6)
+    - [远程调用框架](#%E8%BF%9C%E7%A8%8B%E8%B0%83%E7%94%A8%E6%A1%86%E6%9E%B6)
+    - [Framework](#framework)
+    - [工具](#%E5%B7%A5%E5%85%B7)
+    - [爬虫](#%E7%88%AC%E8%99%AB)
+    - [学习项目](#%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
+    - [前端UI](#%E5%89%8D%E7%AB%AFui)
+    - [测试相关](#%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3)
+    - [Just For Fun](#just-for-fun)
+    - [awesome star](#awesome-star)
+    - [电子书籍](#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
+    - [算法相关](#%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3)
+    - [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+    - [代码规范](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 # 收藏的Git Project
 
 ## IDDD Sample Project
@@ -24,6 +42,7 @@
 - [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)
 - [做最好的接口管理平台DoClever](https://github.com/sx1989827/DOClever)
 - [JEECG 基于代码生成器的智能开发平台](https://github.com/zhangdaiscott/jeecg)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
 
 ## 工具
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava)
@@ -36,6 +55,7 @@
 ## 爬虫
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
 - [weibospider](https://github.com/ResolveWang/weibospider)
+- [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
 
 ## 学习项目
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
@@ -70,6 +90,8 @@
 - [XiaoV, 一个用 Java 写的 QQ 聊天机器人 Web 服务(可能用于监控服务的自动报警功能)](https://github.com/b3log/xiaov)
 - [基于 Smart QQ（Web QQ） 的 Api 封装](https://github.com/ScienJus/smartqq)
 - [Hitchhiker:a Restful Api integrated testing tool](https://github.com/brookshi/Hitchhiker)
+- [叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目](https://github.com/wzpan/dingdang-robot)
+
 
 ## awesome star
 - [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
@@ -78,6 +100,8 @@
 - [轻量高效的开源JavaScript插件和库](https://github.com/jaywcjlove/handbook/blob/master/Javascript/%E8%BD%BB%E9%87%8F%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90JavaScript%E6%8F%92%E4%BB%B6%E5%92%8C%E5%BA%93.md)
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [树莓派(Raspberry Pi)资源大全中文版](https://github.com/wwj718/awesome-raspberry-pi-zh)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
  
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
@@ -89,10 +113,8 @@
 
 ## 设计模式
 - [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+- [tiny-spring:A tiny IoC container refer to Spring](https://github.com/code4craft/tiny-spring)
 
 ## 代码规范
 - [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
 - [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
-
-## Just for Fun
-- [叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目](https://github.com/wzpan/dingdang-robot)
