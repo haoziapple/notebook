@@ -102,6 +102,7 @@
 - [树莓派(Raspberry Pi)资源大全中文版](https://github.com/wwj718/awesome-raspberry-pi-zh)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
+- [better-java:Resources for writing modern Java](https://github.com/cxxr/better-java)
  
 ## 电子书籍
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)

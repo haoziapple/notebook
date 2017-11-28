@@ -13,3 +13,6 @@ while ((len = inStream.read(buffer)) != -1) {
         System.out.println(len);
 }
 ```
+
+格式化输出字串
+> 使用MessageFormat类
