@@ -14,8 +14,6 @@
     - [awesome star](#awesome-star)
     - [电子书籍](#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
     - [算法相关](#%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3)
-    - [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-    - [代码规范](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 # 收藏的Git Project
 
 ## IDDD Sample Project
@@ -111,11 +109,3 @@
 ## 算法相关
 - [Path finding in a graph](https://github.com/anvaka/ngraph.path)
 - [A Python module for learning all major algorithms](https://github.com/OmkarPathak/pygorithm)
-
-## 设计模式
-- [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
-- [tiny-spring:A tiny IoC container refer to Spring](https://github.com/code4craft/tiny-spring)
-
-## 代码规范
-- [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
-- [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
