@@ -54,6 +54,7 @@
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
 - [weibospider](https://github.com/ResolveWang/weibospider)
 - [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
+- [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 
 ## 学习项目
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
@@ -89,7 +90,7 @@
 - [基于 Smart QQ（Web QQ） 的 Api 封装](https://github.com/ScienJus/smartqq)
 - [Hitchhiker:a Restful Api integrated testing tool](https://github.com/brookshi/Hitchhiker)
 - [叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目](https://github.com/wzpan/dingdang-robot)
-
+- [一个开源的GitHub Android客户端应，快速简洁](https://github.com/ThirtyDegreesRay/OpenHub)
 
 ## awesome star
 - [汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)

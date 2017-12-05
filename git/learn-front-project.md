@@ -11,6 +11,9 @@
 - [vue2.0+ elementUI 后台管理平台](https://github.com/suweiteng/vue2-management-platform)
 - [Monine/gitstars:一个gitstar项目的管理工具](https://github.com/Monine/gitstars)
 
+## Angular
+- [Admin dashboard template based on Angular 4+, Bootstrap 4 (previously known as ng2-admin) ](https://github.com/akveo/ngx-admin)
+
 框架
 - [Quasar Framework](https://github.com/quasarframework/quasar)
 - [Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3](https://github.com/vue-bulma/vue-admin)
