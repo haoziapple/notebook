@@ -3,9 +3,9 @@
 
 ## Vue
 学习项目
-- [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+- **重点学习**-->[vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+- **重点学习**-->[基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
 - [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
-- [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
 - [a project template for [vue-cli]](https://github.com/taylorchen709/vue-admin)
 - [基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案](https://github.com/lin-xin/vue-manage-system)
 - [vue2.0+ elementUI 后台管理平台](https://github.com/suweiteng/vue2-management-platform)
