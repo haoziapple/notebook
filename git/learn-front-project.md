@@ -19,6 +19,7 @@
 - [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [ng2-admin:Angular admin dashboard framework](https://github.com/akveo/ng2-admin)
 - [ng-zorro-antd admin panel front-end framework](https://github.com/cipchk/ng-alain)
+- [Yeoman generator for AngularJS and written in TypeScript](https://github.com/leftstick/generator-ts-angular)
 
 ## React
 - [最新react全家桶工程 ^_^ 不谢](https://github.com/icepy/fighting)
