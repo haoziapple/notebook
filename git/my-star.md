@@ -8,7 +8,6 @@
     - [工具](#%E5%B7%A5%E5%85%B7)
     - [爬虫](#%E7%88%AC%E8%99%AB)
     - [学习项目](#%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
-    - [前端UI](#%E5%89%8D%E7%AB%AFui)
     - [测试相关](#%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3)
     - [Just For Fun](#just-for-fun)
     - [awesome star](#awesome-star)
@@ -57,29 +56,14 @@
 - [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 
 ## 学习项目
-- [vue-element-admin:使用vue的后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)
 - [一个cms项目骨架](https://github.com/kangyonggan/cms-archetype)
 - [人人权限系统](https://github.com/sunlightcs/renren-security)
 - [iBase4J:主要看看它的公共功能](https://git.oschina.net/iBase4J/iBase4J)
 - [storyteller-microservices:使用springcloud的示例项目](https://github.com/codependent/storyteller-microservices)
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
-- [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
-- [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
-- [基于 vue + element-ui 的后台管理系统](https://github.com/bailicangdu/vue2-manage)
-- [vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
 - [Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践](https://github.com/chaokunyang/microservices-event-sourcing)
 - [Jkes is a search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch](https://github.com/chaokunyang/jkes)
-- [ng-zorro-antd admin panel front-end framework](https://github.com/cipchk/ng-alain)
-
-## 前端UI
-- [Ant Design](https://github.com/ant-design/ant-design)
-- [ng-zorro-antd:An enterprise-class UI components based on Ant Design and Angular](https://github.com/NG-ZORRO/ng-zorro-antd)
-- [ng2-admin:Angular admin dashboard framework](https://github.com/akveo/ng2-admin)
-- [polymer:Build modern apps using web components](https://github.com/Polymer/polymer)
-- [todomvc:使用不同框架实现了同一个todo应用，学习用](https://github.com/tastejs/todomvc)
-- [Quasar Framework:使用vue的管理台框架](https://github.com/quasarframework/quasar)
-- [Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3](https://github.com/vue-bulma/vue-admin)
 
 ## 测试相关
 - [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
