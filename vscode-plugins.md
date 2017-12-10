@@ -24,12 +24,9 @@
 - vscode-icons:显示文件夹图标
 - Markdown All in One:markdown文件支持
 - Markdown PDF:Convert Markdown to PDF
-- vetur:Vue工具，暂时未能完全使用功能
-- Vue代码提示工具
-    - Vue 2 Snippets
-    - VueHelper
+- vetur:Vue工具(需要添加jsconfig.json,详见官方文档)
+- VueHelper
 - open-in-browser
-- TortoiseSVN for VS Code
 - Git History(git log)
 - npm Intellisense
 - Path Intellisense:路径提示
