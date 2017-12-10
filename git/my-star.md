@@ -11,7 +11,6 @@
     - [测试相关](#%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3)
     - [Just For Fun](#just-for-fun)
     - [awesome star](#awesome-star)
-    - [电子书籍](#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
     - [算法相关](#%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3)
 # 收藏的Git Project
 
@@ -54,6 +53,7 @@
 - [weibospider](https://github.com/ResolveWang/weibospider)
 - [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
 - [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
+- [My Python Script:一些python爬虫脚本](https://github.com/9468305/script)
 
 ## 学习项目
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)
@@ -86,11 +86,8 @@
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [better-java:Resources for writing modern Java](https://github.com/cxxr/better-java)
+- [A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
  
-## 电子书籍
-- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
-- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-
 ## 算法相关
 - [Path finding in a graph](https://github.com/anvaka/ngraph.path)
 - [A Python module for learning all major algorithms](https://github.com/OmkarPathak/pygorithm)
