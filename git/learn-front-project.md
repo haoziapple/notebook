@@ -13,6 +13,7 @@
 - [Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3](https://github.com/vue-bulma/vue-admin)
 - [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
 - [基于UI组件的Vue可视化布局工具](https://github.com/jaweii/Vue-Layout)
+- [#Webpack+Vue多页面购物商城模板](https://github.com/czero1995/webpack-store)
 
 ## Angular
 - [Admin dashboard template based on Angular 4+, Bootstrap 4 (previously known as ng2-admin) ](https://github.com/akveo/ngx-admin)

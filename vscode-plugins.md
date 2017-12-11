@@ -30,3 +30,7 @@
 - Git History(git log)
 - npm Intellisense
 - Path Intellisense:路径提示
+
+# TOTRY:待尝试的插件
+- Python
+- Git Lens
