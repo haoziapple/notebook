@@ -30,7 +30,19 @@
 - Git History(git log)
 - npm Intellisense
 - Path Intellisense:路径提示
+- Git Lens 
 
 # TOTRY:待尝试的插件
 - Python
-- Git Lens
+
+# 用户配置
+```json
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html"
+}
+```
