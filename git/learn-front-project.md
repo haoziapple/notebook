@@ -48,3 +48,4 @@
 
 ## 一些工具三方库
 - [js-xlsx](https://github.com/SheetJS/js-xlsx)
+- [The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.](https://github.com/popmotion/popmotion)

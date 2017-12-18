@@ -6,7 +6,6 @@
     - [远程调用框架](#%E8%BF%9C%E7%A8%8B%E8%B0%83%E7%94%A8%E6%A1%86%E6%9E%B6)
     - [Framework](#framework)
     - [工具](#%E5%B7%A5%E5%85%B7)
-    - [爬虫](#%E7%88%AC%E8%99%AB)
     - [学习项目](#%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
     - [测试相关](#%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3)
     - [Just For Fun](#just-for-fun)
@@ -47,13 +46,6 @@
 - [Rocket.Chat:Have your own Slack like online chat, built with Meteor](https://github.com/RocketChat/Rocket.Chat)
 - [upterm:A terminal emulator for the 21st century](https://github.com/railsware/upterm)
 - [lanproxy:一个将局域网个人电脑、服务器代理到公网的内网穿透工具](https://github.com/ffay/lanproxy)
-
-## 爬虫
-- [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
-- [weibospider](https://github.com/ResolveWang/weibospider)
-- [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
-- [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
-- [My Python Script:一些python爬虫脚本](https://github.com/9468305/script)
 
 ## 学习项目
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)

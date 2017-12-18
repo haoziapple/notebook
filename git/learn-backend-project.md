@@ -4,3 +4,15 @@
 - [Spring boot回调接口汇总](https://github.com/chanjarster/spring-boot-all-callbacks)
 - [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
 - [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
+
+# 框架学习
+- [Lightning fast and elegant mvc framework for Java8](https://github.com/biezhi/blade)
+
+
+# 爬虫
+- [DHT Spider + BitTorrent Client = P2P Spider](https://github.com/fanpei91/p2pspider\)
+- [weibo_terminater](https://github.com/jinfagang/weibo_terminater)
+- [weibospider](https://github.com/ResolveWang/weibospider)
+- [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
+- [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
+- [My Python Script:一些python爬虫脚本](https://github.com/9468305/script)
