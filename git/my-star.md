@@ -3,7 +3,6 @@
     - [龙果支付](#%E9%BE%99%E6%9E%9C%E6%94%AF%E4%BB%98)
     - [Sonar示例项目](#sonar%E7%A4%BA%E4%BE%8B%E9%A1%B9%E7%9B%AE)
     - [计划任务框架](#%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E6%A1%86%E6%9E%B6)
-    - [远程调用框架](#%E8%BF%9C%E7%A8%8B%E8%B0%83%E7%94%A8%E6%A1%86%E6%9E%B6)
     - [Framework](#framework)
     - [工具](#%E5%B7%A5%E5%85%B7)
     - [学习项目](#%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -29,9 +28,6 @@
 - [xxl-job](https://github.com/xuxueli/xxl-job)
 - [elastic-job](https://github.com/dangdangdotcom/elastic-job)
 - [niubi-job](https://github.com/xiaolongzuo/niubi-job)
-
-## 远程调用框架
-- [weibocom/motan](https://github.com/weibocom/motan)
 
 ## Framework
 - [Sentry, a cross-platform crash reporting and aggregation platform](https://github.com/getsentry/sentry)

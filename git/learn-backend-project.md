@@ -16,3 +16,8 @@
 - [webmagic:A scalable web crawler framework for Java](https://github.com/code4craft/webmagic)
 - [Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 - [My Python Script:一些python爬虫脚本](https://github.com/9468305/script)
+
+
+# 远程调用框架
+- [weibocom/motan](https://github.com/weibocom/motan)
+- [The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) https://grpc.io](https://github.com/grpc/grpc)
