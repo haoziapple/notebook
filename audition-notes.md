@@ -19,3 +19,8 @@
 数据[1,2,3,4,5]  
 权重[3,2,3,3,8] 
 ```
+
+算法学习
+- [Implementation of Algorithms and Data Structures, Problems and Solutions](https://github.com/sherxon/AlgoDS)
+面试准备
+- [Everything you need to know to get the job.](https://github.com/kdn251/interviews)
