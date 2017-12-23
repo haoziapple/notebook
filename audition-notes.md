@@ -26,7 +26,7 @@
 - 构造器的继承 与static代码块的关系
 
 联想-懂的通信(问的很多、很细)
-- tomcat启动方式 3种
+- tomcat启动方式 3种:webapp下部署,Context.xml,localhost中新建xml文件(当时一时没想起来，其实自己是知道的)
 - solr collection replica tier的概念
 - java容器有哪些
 - hashmap rehash机制
