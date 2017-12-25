@@ -20,7 +20,7 @@
 权重[3,2,3,3,8] 
 ```
 车置宝
-- java cocurrent包
+- java cocurrent包:atomic包，locks包，Condition，可重入的概念，读写锁
 - java 的位运算 补码机制
 - 多线程 interrupt的机制
 - 构造器的继承 与static代码块的关系
