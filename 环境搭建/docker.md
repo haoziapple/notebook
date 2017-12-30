@@ -15,3 +15,9 @@ docker-machine create --driver virtualbox dev
     - 虚拟机使用boot2docker.iso
     - 虚拟机用户名：docker，密码：tcuser
     - 也可以使用Docker box下的start.sh脚本进入(Git Bash,MINGW64)
+
+
+- Win上安装choco，以管理员运行cmd
+```bash
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+```
