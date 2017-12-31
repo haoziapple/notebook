@@ -16,6 +16,10 @@ docker-machine create --driver virtualbox dev
     - 虚拟机用户名：docker，密码：tcuser
     - 也可以使用Docker box下的start.sh脚本进入(Git Bash,MINGW64)
 
+- [docker 安装sonarqube](https://hub.docker.com/_/sonarqube/)
+```bash
+$ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+```
 
 - Win上安装choco，以管理员运行cmd
 ```bash
