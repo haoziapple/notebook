@@ -21,6 +21,18 @@ docker-machine create --driver virtualbox dev
 $ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 ```
 
+## Docker命令
+- 查看所有容器
+```
+$ docker ps -a
+```
+
+- 后台运行一个容器
+```
+$ docker run -d ubuntu:15.10 /bin/sh -c "while true; do echo hello world; sleep 1; done"
+```
+
+## 其他安装
 - Win上安装choco，以管理员运行cmd
 ```bash
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
