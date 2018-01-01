@@ -5,7 +5,23 @@
 docker --version
 docker run hello-world
 ```
+- 切换阿里镜像加速器
+```
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": [""]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+```
+- [docker 安装sonarqube](https://hub.docker.com/_/sonarqube/)
+```bash
+$ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+```
 
+## Win中使用docker
 - 创建一台docker主机：
 ```
 docker-machine create --driver virtualbox dev
@@ -15,11 +31,6 @@ docker-machine create --driver virtualbox dev
     - 虚拟机使用boot2docker.iso
     - 虚拟机用户名：docker，密码：tcuser
     - 也可以使用Docker box下的start.sh脚本进入(Git Bash,MINGW64)
-
-- [docker 安装sonarqube](https://hub.docker.com/_/sonarqube/)
-```bash
-$ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
-```
 
 ## Docker命令
 - 查看所有容器
