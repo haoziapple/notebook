@@ -19,7 +19,6 @@ git clone -b [new_branch_name]  xxx.git
 [credential]
 helper = store
 ```
-ttt
 - .git-credentials文件的作用:保存用户名、密码以及试用的host
 ```
 http://[用户名]:[密码]@58.213.73.154%3a8099
