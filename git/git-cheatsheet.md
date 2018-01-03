@@ -1,7 +1,13 @@
 # Git Cheatsheet
 
-## 查看所有分支
+## 分支
 > git branch -a
+
+> git checkout -b dev origin/dev，作用是checkout远程的dev分支，在本地起名为dev分支，并切换到本地的dev分支
+
+git clone xxx.git "指定目录"
+
+git clone -b [new_branch_name]  xxx.git
 
 ## 查看远程地址
 > git remote -v
