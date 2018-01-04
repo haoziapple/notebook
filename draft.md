@@ -77,5 +77,3 @@ array = list.toArray(array);
 
 ## trello地址
 https://trello.com/b/7hK5ZTH2/haozi-workboard
-
-## win10安装docker for windows后有两个网址的问题：造成在eureka中注册的ip不可访问
