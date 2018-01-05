@@ -30,3 +30,6 @@ $ git help -a | grep credential
 #设置密码保存为磁盘明文保存形式
 $ git config --global credential.helper store
 ```
+
+## 带用户名密码clone的方式：
+git clone https://username:password@remote
