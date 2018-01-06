@@ -25,11 +25,15 @@ spring-boot-parent为什么仍然需要自己的dependencyManagement？pom中有
 spring-boot-parent中为什么不指定module?
 
 ## 一些插件学习
-versions-maven-plugin:更新version
+- versions-maven-plugin:更新version
 ```
 mvn versions:set -DnewVersion=0.0.3-SNAPSHOT
 mvn versions:revert
 ```
+- release maven plugin
+- docker maven plugin
+- flattern maven plugin
+- maven archetype plugin
 
 ## 官方文档学习
 - [pomReference](http://maven.apache.org/pom.html)
