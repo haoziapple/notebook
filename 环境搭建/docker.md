@@ -43,6 +43,24 @@ $ docker ps -a
 $ docker run -d ubuntu:15.10 /bin/sh -c "while true; do echo hello world; sleep 1; done"
 ```
 
+- 构建镜像
+编写Dockerfile：
+```
+FROM    centos:6.7
+MAINTAINER      Fisher "haozixiaowang@163.com"
+
+RUN     /bin/echo 'root:123456' |chpasswd
+RUN     useradd wanghao
+RUN     /bin/echo 'wanghao:123456' |chpasswd
+RUN     /bin/echo -e "LANG=\"en_US.UTF-8\"" >/etc/default/local
+EXPOSE  22
+EXPOSE  80
+CMD     /usr/sbin/sshd -D
+```
+运行命令：
+```
+~$ docker build -t wanghao/centos:6.7 .
+```
 ## 其他安装
 - Win上安装choco，以管理员运行cmd
 ```bash
