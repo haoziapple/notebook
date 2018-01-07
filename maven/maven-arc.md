@@ -1,4 +1,4 @@
-# springboot的maven架构
+## springboot的maven架构
 - spring-boot-build(指定revision与basedir)
 	- spring-boot-project(指定包含的module，无依赖版本信息)
 		- sping-boot-dependencies(指定依赖版本信息，dependencyManagement，pluginManagement，parent为spring-boot-build)
@@ -14,8 +14,6 @@
 ```
 <!-- Most elements are in profiles so they are stripped out during maven-flatten -->
 ```
-了解maven-flatten
-- [使用flatten-maven-plugin对发布的POM进行精简](https://www.cnblogs.com/jonath/p/7729903.html)
 
 spring-boot-parent为什么仍然需要自己的dependencyManagement？pom中有这么一句：
 ```
@@ -33,10 +31,12 @@ mvn versions:revert
 - release maven plugin
 - docker maven plugin
 - flattern maven plugin
+- [使用flatten-maven-plugin对发布的POM进行精简](https://www.cnblogs.com/jonath/p/7729903.html)
 - maven archetype plugin
 
 ## 官方文档学习
 - [pomReference](http://maven.apache.org/pom.html)
+### Properties
 They come in five different styles:
 1. env.X: Prefixing a variable with "env." will return the shell's environment variable. For example, ${env.PATH} contains the PATH environment variable.
 Note: While environment variables themselves are case-insensitive on Windows, lookup of properties is case-sensitive. In other words, while the Windows shell returns the same value for %PATH% and %Path%, Maven distinguishes between ${env.PATH} and ${env.Path}. As of Maven 2.1.0, the names of environment variables are normalized to all upper-case for the sake of reliability.
