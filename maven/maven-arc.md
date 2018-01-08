@@ -28,8 +28,9 @@ spring-boot-parent中为什么不指定module?
 mvn versions:set -DnewVersion=0.0.3-SNAPSHOT
 mvn versions:revert
 ```
-- release maven plugin
-- docker maven plugin
+- release maven plugin([官网](http://maven.apache.org/maven-release/maven-release-plugin/))
+- docker maven plugin([github链接](https://github.com/spotify/docker-maven-plugin))
+- dockerfile maven plugin([github链接](https://github.com/spotify/dockerfile-maven))
 - flattern maven plugin
 - [使用flatten-maven-plugin对发布的POM进行精简](https://www.cnblogs.com/jonath/p/7729903.html)
 - maven archetype plugin
