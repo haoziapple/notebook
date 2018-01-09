@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+<!-- 需要引入janiao依赖 org.codehaus.janino>janino>3.0.7 -->
+    <evaluator name="CALLER_DISPLAY_EVAL" class="ch.qos.logback.classic.boolex.JaninoEventEvaluator">
+        <expression>return logger.contains("yb.ecp.fast.infra.infra.log.LogHelper");</expression>
+    </evaluator>
+    <springProperty scope="context" name="APP_NAME" source="spring.application.name"
+                    defaultValue="spring-app"/>
+    <springProperty scope="context" name="PORT" source="server.port"
+                    defaultValue="port"/>
+<!-- 通过继承ch.qos.logback.classic.pattern.ClassicConverter实现 -->
+    <conversionRule conversionWord="IP" converterClass="yb.ecp.fast.infra.infra.log.IPLogConfig"/>
+    <conversionRule conversionWord="clr" converterClass="org.springframework.boot.logging.logback.ColorConverter"/>
+    <conversionRule conversionWord="wex"
+                    converterClass="org.springframework.boot.logging.logback.WhitespaceThrowableProxyConverter"/>
+    <conversionRule conversionWord="wEx"
+                    converterClass="org.springframework.boot.logging.logback.ExtendedWhitespaceThrowableProxyConverter"/>
+<!-- 需要引入sleuth依赖 org.springframework.cloud>spring-cloud-starter-sleuth>1.2.5 -->
+    <property name="CONSOLE_LOG_PATTERN"
+              value="%property{APP_NAME}|%IP:%property{PORT}|%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint}|%clr([%X{X-B3-TraceId:-},%X{X-B3-ParentSpanId:-},%X{X-B3-SpanId:-},%X{X-Span-Export:-}])|%clr(%-5level)|%thread|%class-%method-%line|%caller{1..2,CALLER_DISPLAY_EVAL}|%msg|%n"/>
+    <property name="FILE_LOG_PATTERN"
+              value="%property{APP_NAME}|%IP:%property{PORT}|%d{yyyy-MM-dd HH:mm:ss.SSS}|[%X{X-B3-TraceId:-},%X{X-B3-ParentSpanId:-},%X{X-B3-SpanId:-},%X{X-Span-Export:-}]|%level|%thread|%class-%method-%line|%caller{1..2,CALLER_DISPLAY_EVAL}|%msg|%n"/>
+    <property name="LOG_FILE" value="${java.io.tmpdir:-/tmp}/${APP_NAME}/spring.log"/>
+
+    <!-- 输出到日志文件 -->
+    <appender name="FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>utf8</charset>
+        </encoder>
+        <file>${LOG_FILE}</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+            <fileNamePattern>${LOG_FILE}.%i</fileNamePattern>
+        </rollingPolicy>
+        <triggeringPolicy
+                class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+            <MaxFileSize>10MB</MaxFileSize>
+        </triggeringPolicy>
+    </appender>
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+            <charset>utf8</charset>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>
