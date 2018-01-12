@@ -24,3 +24,16 @@ public class FastCallerDataConverter extends CallerDataConverter {
     }
 }
 ```
+
+依赖
+```xml
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-sleuth-zipkin</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.codehaus.janino</groupId>
+	<artifactId>janino</artifactId>
+	<version>3.0.7</version>
+</dependency>
+```
