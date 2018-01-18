@@ -52,6 +52,7 @@
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
 - [Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践](https://github.com/chaokunyang/microservices-event-sourcing)
 - [Jkes is a search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch](https://github.com/chaokunyang/jkes)
+- [铭飞CMS](https://github.com/ming-soft/MCMS)
 
 ## 测试相关
 - [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
