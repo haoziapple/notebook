@@ -1,5 +1,5 @@
 # java+Redis+Mysql
-## java
+## java1.8
 去除老版本
 ```
 yum remove java-1.7.0-openjdk
@@ -19,7 +19,7 @@ export PATH=${JAVA_HOME}/bin:$PATH
 source .bashrc
 ```
 
-## Redis
+## Redis4.0
 安装
 ```
 wget http://download.redis.io/redis-stable.tar.gz
@@ -46,7 +46,7 @@ scp传文件，-r传文件夹
 scp redis-stable.tar.gz root@192.168.1.48:/root/
 ```
 
-## Mysql
+## Mysql5.7
 安装
 ```
 wget https://cdn.mysql.com//Downloads/MySQL-5.7/mysql-5.7.21-1.el6.x86_64.rpm-bundle.tar
@@ -64,5 +64,22 @@ mysqld_safe  --skip-grant-tables
 set password=password('密码不能太简单-5.7版本要求')
 mysql -hlocalhost -uroot -p[Your-password](登陆)
 ```
-导脚本：source /root/myscript
-.sql
+导脚本
+```
+source /root/myscript.sql
+```
+数据库表名大小写问题，mysql默认是大小写敏感的：lower_case_table_names
+- 为0时（Linux默认），大小写敏感，创建和查询都是区分大小写；
+- 为1时，创建表以小写，查询表也是以小写；
+- 为2时，创建表区分大小写，查询表以小写。
+
+```
+vi /etc/my.cnf
+lower_case_table_names=1  ([mysqld]中添加)
+service mysqld restart
+```
+SSL:Mysql5.7默认开启了SSL
+```
+show variables like '%ssl%';
+spring.datasource.url = jdbc:mysql://192.168.1.48:3306/test?characterEncoding=UTF-8&useSSL=false  (TODO:useSSL=true的时候会报错，如何配置待研究)
+```
