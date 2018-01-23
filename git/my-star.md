@@ -42,17 +42,16 @@
 - [Rocket.Chat:Have your own Slack like online chat, built with Meteor](https://github.com/RocketChat/Rocket.Chat)
 - [upterm:A terminal emulator for the 21st century](https://github.com/railsware/upterm)
 - [lanproxy:一个将局域网个人电脑、服务器代理到公网的内网穿透工具](https://github.com/ffay/lanproxy)
+- [A set of tools that keep Java sweet. http://www.hutool.cn](https://github.com/looly/hutool/)
 
 ## 学习项目
 - [zheng:一整套公共服务，感觉很大很全](https://github.com/shuzheng/zheng)
-- [一个cms项目骨架](https://github.com/kangyonggan/cms-archetype)
 - [人人权限系统](https://github.com/sunlightcs/renren-security)
 - [iBase4J:主要看看它的公共功能](https://git.oschina.net/iBase4J/iBase4J)
 - [storyteller-microservices:使用springcloud的示例项目](https://github.com/codependent/storyteller-microservices)
 - [zkui:Zookeeper UI Dashboard](https://github.com/DeemOpen/zkui)
 - [Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践](https://github.com/chaokunyang/microservices-event-sourcing)
 - [Jkes is a search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch](https://github.com/chaokunyang/jkes)
-- [铭飞CMS](https://github.com/ming-soft/MCMS)
 
 ## 测试相关
 - [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
