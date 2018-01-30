@@ -4,3 +4,5 @@
 - [PublicCMS是采用2017年最新主流技术开发的免费开源JAVACMS系统](https://github.com/sanluan/PublicCMS)
 
 - [一个cms项目骨架](https://github.com/kangyonggan/cms-archetype)
+
+- [jeecms-商用，源码需要从论坛下载](http://bbs.jeecms.com/)
