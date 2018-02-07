@@ -74,7 +74,8 @@
 
 > mvn sonar:sonar
 - 参考链接:
-    - [sonar示例项目](https://github.com/SonarSource/sonar-examples)
+    - [sonar示例项目](https://github.com/SonarSource/sonar-scanning-examples)
     - [Code Coverage by Unit Tests for Java Project](https://docs.sonarqube.org/display/PLUG/Code+Coverage+by+Unit+Tests+for+Java+Project)
     - [Usage of JaCoCo with Java Plugin](https://docs.sonarqube.org/display/PLUG/Usage+of+JaCoCo+with+Java+Plugin)
+    - [Advanced SonarQube Scanner Usages](https://docs.sonarqube.org/display/SCAN/Advanced+SonarQube+Scanner+Usages)
 > PS:还是上官网比较靠谱
