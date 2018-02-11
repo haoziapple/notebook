@@ -81,3 +81,10 @@ https://trello.com/b/7hK5ZTH2/haozi-workboard
 CAP定理（C-数据一致性；A-服务可用性；P-服务对网络分区故障的容错性，这三个特性在任何分布式系统中不能同时满足，最多同时满足两个)
 
 - [springfox项目](https://github.com/springfox/springfox)
+
+1. 熟悉jeecms后台代码
+2. 尝试修改jeecms前端代码，调用fast平台登陆接口
+3. java内存工具的学习--jmap，jstat
+4. spock测试框架的学习
+6. flowable工作流引擎的学习
+7. angular1的学习
