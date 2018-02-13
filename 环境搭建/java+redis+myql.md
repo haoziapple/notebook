@@ -19,6 +19,11 @@ export PATH=${JAVA_HOME}/bin:$PATH
 source .bashrc
 ```
 
+启动脚本
+```
+nohup java -jar auth-server-0.0.3-SNAPSHOT.jar --server.port=${1} --eureka.client.serviceUrl.defaultZone=http://localhost:9001/eureka/ > /dev/null &
+```
+
 ## Redis4.0
 安装
 ```

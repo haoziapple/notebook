@@ -1,5 +1,6 @@
 - 使用Jprofiler, JConsole, VisualVM
 - IDEA下安装Jprofiler插件
+- jdk/bin下的jvisualvm.exe，jconsole.exe
 
 垃圾回收顺序：Eden space-->Survivor space-->Old Gen
 -Xss：调整每个线程的栈大小，防止栈溢出
