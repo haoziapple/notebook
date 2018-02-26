@@ -50,3 +50,5 @@ java -cp .;"%JAVA_HOME%/lib/sa-jdi.jar" sun.jvm.hotspot.HSDB
 
 报异常，将jdk/bin下的sawindbg.dll文件复制过去：
 Exception in thread "Thread-1" java.lang.UnsatisfiedLinkError: Can't load library: D:\Program Files\Java\jre8\bin\sawindbg.dll
+
+jstat,jinfo
