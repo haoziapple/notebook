@@ -67,6 +67,8 @@ rpm -ivh mysql-community-server-5.7.21-1.el6.x86_64.rpm
 ```
 mysqld_safe  --skip-grant-tables
 set password=password('密码不能太简单-5.7版本要求')
+UPDATE user SET Password = PASSWORD('newpass') WHERE user = 'root';
+FLUSH PRIVILEGES;
 mysql -hlocalhost -uroot -p[Your-password](登陆)
 ```
 导脚本
