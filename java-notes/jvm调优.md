@@ -1,3 +1,4 @@
+- [rednaxelafx：jvm大牛](http://rednaxelafx.iteye.com/)
 - 使用Jprofiler, JConsole, VisualVM
 - IDEA下安装Jprofiler插件
 - jdk/bin下的jvisualvm.exe，jconsole.exe
