@@ -1,0 +1,6 @@
+- [sloth](https://github.com/dee1024/java-code-generator)
+- [Google的代码生成框架：rapid-framework--code.google.com/p/rapid-framework](https://github.com/badqiu/rapid-framework)
+- [人人开源项目的代码生成器](https://gitee.com/renrenio/renren-generator)
+- [Febit Generator -- 只是个生成代码的工具](https://github.com/febit/febit-generator)
+- [mybatis代码生成器](https://gitee.com/bangis/mybatis.generator)
+- [CodeGenerator是一个轻量的代码生成工具](https://gitee.com/hjf123/CodeGenerator.git)
