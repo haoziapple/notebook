@@ -14,3 +14,8 @@ open -a "Google Chrome" --args --disable-web-security  --user-data-dir
 ```
 yarn global add generator-jhipster
 ```
+
+- [前端代码生成工具：yeoman](http://yeoman.io/)
+```
+npm install -g yo
+```
