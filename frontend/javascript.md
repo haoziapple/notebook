@@ -19,3 +19,14 @@ yarn global add generator-jhipster
 ```
 npm install -g yo
 ```
+
+- bower, 依赖管理工具
+```
+npm install -g bower
+```
+
+- gulp，构建工具
+```
+npm install -g gulp
+npm install -g gulp-cli
+```
