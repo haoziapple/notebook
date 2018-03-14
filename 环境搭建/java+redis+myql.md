@@ -4,7 +4,7 @@
 ```
 yum remove java-1.7.0-openjdk
 yum remove java-1.6.0-openjdk
-wget http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-linux-x64.rpm?AuthParam=1516324364_464cd889c68967b2f28d7ea14b6b0a3c
+wget http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-linux-x64.rpm
 rpm -ivh jdk-8u161-linux-x64.rpm
 vim .bashrc
 ```
