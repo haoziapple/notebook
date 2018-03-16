@@ -61,6 +61,12 @@ CMD     /usr/sbin/sshd -D
 ```
 ~$ docker build -t wanghao/centos:6.7 .
 ```
+
+查看镜像：docker images
+查看正在运行容器：docker container ls
+删除容器：docker rm acontainer-name
+
+
 ## 其他安装
 - Win上安装choco，以管理员运行cmd
 ```bash
@@ -71,4 +77,18 @@ CMD     /usr/sbin/sshd -D
 ```
 sudo docker pull mysql
 sudo docker run --name first-mysql -p 3306:3306 -e MYSQL\_ROOT\_PASSWORD=123456 -d mysql
+```
+
+## 使用docker-compose
+```
+后台启动
+docker-compose up -d
+查看版本
+docker-compose version
+列出所有服务
+docker-compose ps
+停止服务
+docker-compose stop
+重启服务
+docker-compose restart
 ```
