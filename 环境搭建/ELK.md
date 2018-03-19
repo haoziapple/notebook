@@ -269,7 +269,7 @@ input {
 redis {
         host => "192.168.1.88"
         port => 7021
-        key => "elk:ztjtest"
+        key => "elk:test"
         data_type => "list"
     }
 }
@@ -278,6 +278,12 @@ filter {
 	grok {
 		match=>{ "message"=>"%{DATA:service}\|%{DATA:host}\|%{DATA:time}\|\[%{DATA:traceId},%{DATA:parentSpanId},%{DATA:spanId},%{DATA:export}\]\|%{DATA:level}\|%{DATA:threadName}\|%{DATA:logger}\|%{DATA:caller}\|%{DATA:msg}\|"}
 	}
+  // 覆盖掉@timestamp字段，按照日志打印时间排序
+  date {
+        match => ["time", "yyyy-MM-dd HH:mm:ss.SSS"]
+        target => "@timestamp"
+        timezone => "Asia/Shanghai"
+    }
 
 }
 
@@ -290,6 +296,7 @@ output {
 }
 ```
 grok debugger: http://grokdebug.herokuapp.com
+grok-patterns：https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns
 
 安装filebeat，并配置filebeat.yml
 ```yml
@@ -307,5 +314,5 @@ filebeat.prospectors:
 output.redis:
   hosts: ["192.168.1.88"]
   port: 7021
-  key: "elktest:log"
+  key: "elk:ztjtest"
 ```
