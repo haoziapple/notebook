@@ -234,3 +234,78 @@ output {
   }
 }
 ```
+
+# docker搭建ELK
+git clone https://github.com/deviantony/docker-elk.git
+```
+CentOS7 下好像不起作用：
+$ chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+```
+
+参考文章：https://www.cnblogs.com/ivictor/p/4834864.html
+挂载宿主机已存在目录后，在容器内对其进行操作，报“Permission denied”。
+
+可通过两种方式解决：
+
+1> 关闭selinux。
+
+临时关闭：# setenforce 0
+
+永久关闭：修改/etc/sysconfig/selinux文件，将SELINUX的值设置为disabled。
+
+2> 以特权方式启动容器 
+
+指定--privileged参数
+
+如：# docker run -it --privileged=true -v /test:/soft centos /bin/bash
+
+修改logstash.conf
+```json
+input {
+	tcp {
+		port => 5000
+	}
+## 需要redis中转，filebeat直接吐到logstash有乱码问题，原因待查
+redis {
+        host => "192.168.1.88"
+        port => 7021
+        key => "elk:ztjtest"
+        data_type => "list"
+    }
+}
+
+filter {
+	grok {
+		match=>{ "message"=>"%{DATA:service}\|%{DATA:host}\|%{DATA:time}\|\[%{DATA:traceId},%{DATA:parentSpanId},%{DATA:spanId},%{DATA:export}\]\|%{DATA:level}\|%{DATA:threadName}\|%{DATA:logger}\|%{DATA:caller}\|%{DATA:msg}\|"}
+	}
+
+}
+
+## Add your filters / logstash plugins configuration here
+
+output {
+	elasticsearch {
+		hosts => "elasticsearch:9200"
+	}
+}
+```
+grok debugger: http://grokdebug.herokuapp.com
+
+安装filebeat，并配置filebeat.yml
+```yml
+filebeat.prospectors:
+- type: log
+  enabled: true
+  paths:
+    - /root/publish/startup/*.log
+  encoding: utf-8
+  # 多行合并的配置，日志必须以“|”结尾
+  multiline.pattern: \|$
+  multiline.negate: true
+  multiline.match: after
+#-------------- Redis output --------------
+output.redis:
+  hosts: ["192.168.1.88"]
+  port: 7021
+  key: "elktest:log"
+```

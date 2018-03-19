@@ -20,6 +20,8 @@ sudo systemctl restart docker
 ```bash
 $ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 ```
+- 启动docker守护进程
+sudo systemctl start docker
 
 ## Win中使用docker
 - 创建一台docker主机：
@@ -65,6 +67,7 @@ CMD     /usr/sbin/sshd -D
 查看镜像：docker images
 查看正在运行容器：docker container ls
 删除容器：docker rm acontainer-name
+运行容器：docker run acontainer-name
 
 
 ## 其他安装
