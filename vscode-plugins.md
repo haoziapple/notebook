@@ -43,6 +43,7 @@
         "vue-html": "html",
         "vue": "html"
     },
-    "vetur.format.defaultFormatter.html": "js-beautify-html"
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\usr\\bin\\bash.exe"
 }
 ```
