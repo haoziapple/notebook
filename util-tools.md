@@ -6,6 +6,6 @@
 - samba:文件共享工具
 - Httrack:整站下载器(http://www.httrack.com/)
 - Help & Manual：帮助文档制作工具
-
+- [ScreenToGif:gif录制工具](https://github.com/NickeManarin/ScreenToGif)
 # linux工具
 nc,nmap
