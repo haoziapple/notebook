@@ -7,5 +7,8 @@
 - Httrack:整站下载器(http://www.httrack.com/)
 - Help & Manual：帮助文档制作工具
 - [ScreenToGif:gif录制工具](https://github.com/NickeManarin/ScreenToGif)
+- win上命令行工具：cmder
+- node版本管理工具：nvm, n(只支持linux与mac)
+
 # linux工具
 nc,nmap
