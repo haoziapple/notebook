@@ -67,7 +67,7 @@ CMD     /usr/sbin/sshd -D
 查看镜像：docker images
 查看正在运行容器：docker container ls
 删除容器：docker rm acontainer-name
-运行容器：docker run acontainer-name
+运行容器：docker run acontainer-name 或者 docker start container-id，有什么区别？
 
 
 ## 其他安装
