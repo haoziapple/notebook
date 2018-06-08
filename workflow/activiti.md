@@ -35,3 +35,7 @@
 - 3.3.5：通用数据表 
 1) act_ge_bytearray 二进制数据表 
 2) act_ge_property 属性数据表存储整个流程引擎级别的数据,初始化表结构时，会默认插入三条记录
+
+## 参考资料
+- [activiti6开发者手册](https://www.activiti.org/userguide)
+- [BPMN2.0流程图释义](https://camunda.com/bpmn/reference/)
