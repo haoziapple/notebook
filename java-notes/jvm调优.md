@@ -53,3 +53,24 @@ java -cp .;"%JAVA_HOME%/lib/sa-jdi.jar" sun.jvm.hotspot.HSDB
 Exception in thread "Thread-1" java.lang.UnsatisfiedLinkError: Can't load library: D:\Program Files\Java\jre8\bin\sawindbg.dll
 
 jstat,jinfo
+
+
+## jvm问题排查
+- 查找活跃进程
+```
+ps -ef|grep java
+ps -aux|grep java
+```
+- 查找java进程
+```
+jps -v
+```
+- 查看存活的对象情况
+```
+jmap -histo:live [pid]
+```
+- 查看java启动信息：jinfo
+- 查看JVM运行时GC统计信息
+```
+jstat -gcutil [pid]
+```
