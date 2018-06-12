@@ -56,6 +56,7 @@ jstat,jinfo
 
 
 ## jvm问题排查
+> 参考链接：[java8](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/)
 - 查找活跃进程
 ```
 ps -ef|grep java
