@@ -5,3 +5,7 @@
 - [一个简单的数据结构教程](https://www.interviewcake.com/data-structures-reference)
 - [记小栈:前端的个人网站](https://www.liayal.com/)
 - [西刺免费代理IP](http://www.xicidaili.com/)
+
+# 个人博客
+- [mattouille.com--一个国外运维](https://mattouille.com/)
+- [Enqueue Zero. My name is Ju and I publish code principles here](https://enqueuezero.com/)
