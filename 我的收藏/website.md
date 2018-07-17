@@ -11,7 +11,10 @@
 - [mattouille.com--一个国外运维](https://mattouille.com/)
 - [Enqueue Zero. My name is Ju and I publish code principles here](https://enqueuezero.com/)
 - [记小栈:前端的个人网站](https://www.liayal.com/) 
+- [Werner Vogels' weblog on building scalable and robust distributed systems.](https://www.allthingsdistributed.com/)
 
 ## 门户网站
 - https://hackernoon.com/
 - https://medium.com/
+- [smashing：前端设计](https://www.smashingmagazine.com/)
+- [acm queue](https://queue.acm.org/)
