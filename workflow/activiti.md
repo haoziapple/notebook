@@ -39,3 +39,4 @@
 ## 参考资料
 - [activiti6开发者手册](https://www.activiti.org/userguide)
 - [BPMN2.0流程图释义](https://camunda.com/bpmn/reference/)
+- https://www.activiti.org/get-started
