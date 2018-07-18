@@ -9,3 +9,5 @@
 - http://aquaticfile.xiao6.com/img/20180706/default/184405180706143508177.png
 - http://file.guanbaousa.com/img/20171210/default/515080171210071312170.png
 - 2sMmEkKSsnbBq1C5RXz36O
+每日60秒 新闻（抓取每日新闻后，考虑下用什么方式发送到微信群）
+- http://www.rjk6.com/?c=index&m=infos&last_cate_id=6
