@@ -12,6 +12,7 @@
 - [Enqueue Zero. My name is Ju and I publish code principles here](https://enqueuezero.com/)
 - [记小栈:前端的个人网站](https://www.liayal.com/) 
 - [Werner Vogels' weblog on building scalable and robust distributed systems.](https://www.allthingsdistributed.com/)
+- [stateiso的CSDN博客，有蛮多源码方面的文章](https://blog.csdn.net/qq_38182963/)
 
 ## 门户网站
 - https://hackernoon.com/
