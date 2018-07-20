@@ -1,5 +1,10 @@
 # 爬虫平台项目预研
 
+## 参考竞品
+- [八爪鱼](http://www.bazhuayu.com/)
+- [神箭手](https://www.shenjianshou.cn/)
+- [GooSeeker](http://www.gooseeker.com/index.html)
+
 ## Fast-Reaper项目
 基于Webmagic的爬虫平台，开发中，需要明确业务需求
 
