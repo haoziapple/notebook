@@ -15,6 +15,7 @@
 - [stateiso的CSDN博客，有蛮多源码方面的文章](https://blog.csdn.net/qq_38182963/)
 
 ## 门户网站
+- https://news.ycombinator.com/
 - https://hackernoon.com/
 - https://medium.com/
 - [smashing：前端设计](https://www.smashingmagazine.com/)
