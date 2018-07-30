@@ -95,3 +95,6 @@ docker-compose stop
 重启服务
 docker-compose restart
 ```
+
+## 进入docker的shell对其操作
+sudo docker exec -it “容器ID” bash
