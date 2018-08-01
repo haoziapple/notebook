@@ -14,6 +14,8 @@
 - [记小栈:前端的个人网站](https://www.liayal.com/) 
 - [Werner Vogels' weblog on building scalable and robust distributed systems.](https://www.allthingsdistributed.com/)
 - [stateiso的CSDN博客，有蛮多源码方面的文章](https://blog.csdn.net/qq_38182963/)
+- [爬虫--相关的博客](https://blog.csdn.net/qq_36783371/article/list)
+- [spring源码--相关的博客](https://my.oschina.net/marvelcode?tab=newest&catalogId=0)
 
 ## 门户网站
 - https://news.ycombinator.com/
