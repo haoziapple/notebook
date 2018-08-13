@@ -23,3 +23,6 @@
 - https://medium.com/
 - [smashing：前端设计](https://www.smashingmagazine.com/)
 - [acm queue](https://queue.acm.org/)
+
+## 工具
+- [各大互联网公司使用的技术栈--可以跟踪下前沿技术](https://stackshare.io/)
