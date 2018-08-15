@@ -7,3 +7,4 @@
 - [Pivotal Cloud Foundry:云平台](https://pivotal.io/)
 - [retrofit--模板化的HttpClient，有点类似feign，底层封装okhttp](http://square.github.io/retrofit/)
 - [rxjava--响应式多线程编程](http://reactivex.io)
+- [Akka--Actor多线程](https://akka.io/)
