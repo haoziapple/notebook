@@ -5,3 +5,5 @@
 - [dozer:JavaBean映射工具库](https://www.jianshu.com/p/bf8f0e8aee23)
 - [web assembly:wasm前端技术](https://webassembly.org/)
 - [Pivotal Cloud Foundry:云平台](https://pivotal.io/)
+- [retrofit--模板化的HttpClient，有点类似feign，底层封装okhttp](http://square.github.io/retrofit/)
+- [rxjava--响应式多线程编程](http://reactivex.io)
