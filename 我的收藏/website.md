@@ -19,6 +19,7 @@
 - [代码家](https://daimajia.com/)
 - [devteam-blog](https://www.devteam.space/blog/)
 - [jolestar:容器、k8s](http://jolestar.com/)
+- [后端技术杂谈](http://www.rowkey.me/)
 
 ## 门户网站
 - https://news.ycombinator.com/
