@@ -75,3 +75,9 @@ jmap -histo:live [pid]
 ```
 jstat -gcutil [pid]
 ```
+
+- jmap -histo:live 10794 | head -n 100
+- jstat -gcutil 10794 2000 10
+- top -p pid  -H  查看针对每一个线程占用CPU情况
+- jstack 10794|grep -A  100 0x2a2f 查看某一个线程
+- jmap -heap 10794
