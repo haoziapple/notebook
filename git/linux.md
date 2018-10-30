@@ -15,3 +15,6 @@ Ctrl+A k
 清除dead会话
 screen -wipe
 ```
+
+## 查看日志
+> cat /var/log/messages
