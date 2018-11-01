@@ -10,3 +10,4 @@
 - [Akka--Actor多线程](https://akka.io/)
 - [axis--集成webservice](http://axis.apache.org/axis2/java/core/)
 - [kettle--数据迁移工具](http://www.kettle.net.cn/)
+- [openfire--即时通讯服务器](http://www.igniterealtime.org/projects/openfire/index.jsp)

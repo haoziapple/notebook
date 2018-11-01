@@ -69,11 +69,12 @@ start)
     then
       echo "$app running at PID: $pid"
     else
-      nohup java -jar $app-0.0.3-SNAPSHOT.jar --server.port=8015  > $app.log 2>&1 &
+      nohup java -jar $app.jar > $app.log 2>&1 &
       echo "$!" > $app.pid
       echo "$app started at PID: $!"
       pid=$!
       echo "PID of this script: $$"
+      echo "$$" > $app.script.pid
       echo "PPID of this script: $PPID"
       echo "UID of this script: $UID"
     fi
@@ -83,6 +84,8 @@ start)
 stop)
   kill `cat $app.pid`
   rm -f $app.pid
+  kill `cat $app.script.pid`
+  rm -f $app.script.pid
 ;;
 *)
   echo "Use: ./eureka.sh {start} | {stop}"
