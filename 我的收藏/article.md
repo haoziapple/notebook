@@ -5,3 +5,4 @@
 ](https://www.infoq.com/articles/ddd-in-practice)
 - [springboot整合activiti](http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot)
 - [使用jib快速将一个java应用打包成docker镜像](https://jaxenter.com/jib-java-containerization-146647.html)
+- [使用 Cookie 实现公有云会话跟踪](https://www.ibm.com/developerworks/cn/web/wa-session-tracking-using-cookies/index.html)
