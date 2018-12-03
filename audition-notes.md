@@ -44,3 +44,36 @@
 
 面试准备
 - [Everything you need to know to get the job.](https://github.com/kdn251/interviews)
+
+## 2018-12-03
+
+福特汽车
+- redis操作，事务原理，管道
+- 分布式事务
+- restful规范，POST和PUT方法的区别
+
+汇通达
+- sql取交集、并集
+- 设计一个秒杀系统，令牌桶怎么设计
+- tomcat并发有多少
+
+富士康
+- hashtable和hashmap的区别
+- hashmap线程安全
+- hashmap的key，value是否可以为null，为什么
+- java字节流和字符流的区别
+- stringbuffer，stringbuilder区别，为什么
+- 创建线程的几种方式
+- 线程池的使用
+- 简单工厂与抽象工厂
+- oom如何排查
+- 对象创建到销毁，jvm内存模型
+- jvm内存回收，除了引用计数法还有什么？
+- 一千万大表分页
+- mybatis查询返回自增id
+- mybatis#与$的区别，为什么
+- mysql索引 b+tree原理
+- mysql最左匹配原理
+- shell 查看占用端口
+- shell 查看是否有文件存在
+- 存过的优缺点
