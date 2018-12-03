@@ -45,8 +45,6 @@
 面试准备
 - [Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 
-## 2018-12-03
-
 福特汽车
 - redis操作，事务原理，管道
 - 分布式事务
