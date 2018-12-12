@@ -5,3 +5,5 @@
 - [kubernetes教程](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
 - [DDD理论学习系列——案例及目录](https://www.jianshu.com/p/6e2917551e63)
 - [浅析DDD(领域驱动设计)](https://www.jianshu.com/p/b6ec06d6b594)
+- [北大计算机课程：C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
+- [北大计算机课程：C++程序设计(B站)](https://www.bilibili.com/video/av10046030/?p=1)
