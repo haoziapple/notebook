@@ -21,6 +21,7 @@
 - [jolestar:容器、k8s](http://jolestar.com/)
 - [后端技术杂谈](http://www.rowkey.me/)
 - [Preshing on Programming](https://preshing.com/)
+- [rednaxelafx：jvm大牛](http://rednaxelafx.iteye.com/)
 
 ## 门户网站
 - https://news.ycombinator.com/

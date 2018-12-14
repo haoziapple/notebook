@@ -16,3 +16,5 @@
 - [firecracker--AWS开源的函数服务运行容器](https://github.com/firecracker-microvm/firecracker)
 - [taro.js--多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用](https://github.com/NervJS/taro)
 - [dubbo--远程调用框架](http://dubbo.apache.org/zh-cn/index.html)
+- [H5游戏开发--知乎专栏](https://zhuanlan.zhihu.com/snsgame)
+- [grails--使用groovy + springboot的快速web开发框架](https://grails.org/)
