@@ -91,3 +91,7 @@ stop)
   echo "Use: ./eureka.sh {start} | {stop}"
 esac
 ```
+
+
+## 全局查询大于100M的文件
+> find / -xdev -size +100M -exec ls -l {} \;
