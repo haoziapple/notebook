@@ -18,3 +18,5 @@
 - [dubbo--远程调用框架](http://dubbo.apache.org/zh-cn/index.html)
 - [H5游戏开发--知乎专栏](https://zhuanlan.zhihu.com/snsgame)
 - [grails--使用groovy + springboot的快速web开发框架](https://grails.org/)
+
+- [BDF2, Dorado7开发框架，包括工作流和报表引擎](http://www.bstek.com)
