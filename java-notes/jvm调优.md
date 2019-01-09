@@ -81,3 +81,21 @@ jstat -gcutil [pid]
 - top -p pid  -H  查看针对每一个线程占用CPU情况
 - jstack 10794|grep -A  100 0x2a2f 查看某一个线程
 - jmap -heap 10794
+
+
+- java -server -XX:+UnlockDiagnosticVMOptions -XX:+PrintFlagsFinal -version | grep -i heapsize
+- java -client -XX:+UnlockDiagnosticVMOptions -XX:+PrintFlagsFinal -version | grep -i heapsize
+
+- [Java内存溢出(OOM)异常完全指南](https://www.jianshu.com/p/2fdee831ed03)
+
+
+## 使用jprofiler
+
+- wget http://download-keycdn.ej-technologies.com/jprofiler/jprofiler_linux_9_2.rpm
+- rpm -ivh jprofiler_linux_9_2.rpm
+- /opt/jprofiler9
+- /usr/local/bin
+
+## 使用greys-anatomy
+
+https://github.com/oldmanpushcart/greys-anatomy
