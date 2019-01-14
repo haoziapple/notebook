@@ -20,3 +20,9 @@
 - [grails--使用groovy + springboot的快速web开发框架](https://grails.org/)
 
 - [BDF2, Dorado7开发框架，包括工作流和报表引擎](http://www.bstek.com)
+
+- [ratpack--微服务java栈](https://ratpack.io)
+- [keycloak--访问管理方案](https://www.keycloak.org/)
+
+- [fescar--阿里的分布式事务解决方案](https://github.com/alibaba/fescar)
+- [kong--基于nginx的网关](https://konghq.com/)
