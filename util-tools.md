@@ -18,3 +18,6 @@ nc,nmap
 # 开发工具
 - node版本管理工具：nvm, n(只支持linux与mac)
 - Java Service Wrapper(JSW)：可以将Java应用程序封装成Windows服务（service）或Unix守护程序（daemon）的程序
+
+# 效率工具
+- 资源管理：xplorer,total commander
