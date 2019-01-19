@@ -40,3 +40,4 @@
 
 ## 云服务平台
 - [heroku](https://www.heroku.com)
+- [zeit](https://zeit.co)
