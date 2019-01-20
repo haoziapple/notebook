@@ -1,5 +1,5 @@
 - [rednaxelafx：jvm大牛](http://rednaxelafx.iteye.com/)
-- 使用Jprofiler, JConsole, VisualVM
+- 使用Jprofiler, JConsole, VisualVM，YourKit Java Profiler
 - IDEA下安装Jprofiler插件
 - jdk/bin下的jvisualvm.exe，jconsole.exe
 
@@ -109,3 +109,10 @@ https://github.com/oldmanpushcart/greys-anatomy
 - n 拒绝显示别名，能显示数字的全部转化为数字
 - l 仅列出在Listen(监听)的服务状态
 - p 显示建立相关链接的程序名
+
+## 性能检测工具
+- Jprofiler
+- YourKit Java Profiler
+- JConsole
+- VisualVM
+- JMC
