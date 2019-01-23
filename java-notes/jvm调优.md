@@ -116,3 +116,17 @@ https://github.com/oldmanpushcart/greys-anatomy
 - JConsole
 - VisualVM
 - JMC
+
+## 调优参数
+- -XX:NewRatio=2 (老年代是新生代的2倍)
+- -XX:SurvivorRatio=8 (eden区是一个survivor的8倍，survivor区两个同样大)
+- -XX:+DisableExplicitGC (System.gc()调用无效化)
+- -XX:+UseParNewGC (:设置年轻代为多线程收集)
+- -XX:CMSInitiatingOccupancyFraction=70 (触发CMS收集器的内存比例。比如60%的意思就是说，当内存达到60%，就会开始进行CMS并发收集)
+- -XX:+PrintGC (输出GC日志)
+- -XX:+PrintGCDetails (输出GC的详细日志)
+- -XX:+PrintHeapAtGC (在进行GC的前后打印出堆的信息)
+- -XX:+PrintGCDateStamps (输出GC的时间戳，以日期的形式，如2013-05-04T21:54)
+- -XX:+PrintGCTimeStamps (输出GC的时间戳，以基准时间的形式，与上面的二选一)
+- -XX:+PrintTenuringDistribution (输出显示在survivor空间里面有效的对象的岁数情况)
+- -Xloggc:~/logs/eureka-server-jvm.log
