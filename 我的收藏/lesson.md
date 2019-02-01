@@ -7,3 +7,4 @@
 - [浅析DDD(领域驱动设计)](https://www.jianshu.com/p/b6ec06d6b594)
 - [北大计算机课程：C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 - [北大计算机课程：C++程序设计(B站)](https://www.bilibili.com/video/av10046030/?p=1)
+- [使用Racket的教程：How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/index.html)
