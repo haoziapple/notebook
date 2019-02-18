@@ -21,3 +21,4 @@ nc,nmap
 
 # 效率工具
 - 资源管理：xplorer,total commander
+- TeX写作工具：http://www.texts.io/，https://github.com/wingjay/resume-latex-chinese-support
