@@ -28,3 +28,10 @@
 - [fescar--阿里的分布式事务解决方案](https://github.com/alibaba/fescar)
 - [kong--基于nginx的网关](https://konghq.com/)
 - [drools规则引擎](https://www.drools.org/)
+
+## 代码生成
+- [yeoman](https://yeoman.io/)
+- [Schematics的介绍](https://zhuanlan.zhihu.com/p/54092504)
+
+## 运维-开发工作流
+- [Jib--把java项目打包成Docker镜像](https://github.com/GoogleContainerTools/jib)

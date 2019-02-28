@@ -10,6 +10,7 @@
 - win上命令行工具：cmder
 - 小书匠：markdown写作
 - EOLinker：API管理工具
+- [Motrix全能下载工具](https://github.com/agalwood/Motrix)
 
 # linux工具
 nc,nmap

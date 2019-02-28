@@ -47,3 +47,8 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\usr\\bin\\bash.exe"
 }
 ```
+
+
+## 划水
+- daily-anime：追番插件
+- LeetCode：在vscode写LeetCode
