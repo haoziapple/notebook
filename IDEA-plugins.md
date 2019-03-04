@@ -9,3 +9,8 @@
 
 # 常规IDEA的使用
 - 自定义代码模板：Live Templates
+
+
+## IDEA快捷键
+- Ctrl+Alt+T  生成环绕代码
+- Ctrl+Shift+A 快速执行某个指令
