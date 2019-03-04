@@ -98,3 +98,21 @@ docker-compose restart
 
 ## 进入docker的shell对其操作
 sudo docker exec -it “容器ID” bash
+
+## 安装docker-compose
+```
+sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+docker-compose -v
+```
+
+## selinux导致docker启动失败
+```
+Error response from daemon: devmapper: Error mounting '/dev/mapper/docker-253:0-155266-97eaf4ba0669a6a8f010204b29e0ba923a35e93aa9c47d5bb2c7b14db4c4e619' on '/var/lib/docker/devicemapper/mnt/97eaf4ba0669a6a8f010204b29e0ba923a35e93aa9c47d5bb2c7b14db4c4e619': invalid argument
+Error: failed to start containers: gocd-server
+```
+
+- I had to remove selinux labels from config.v2.json files (var/lib/docker/containers//config.v2.json..
+- "MountLabel": "system_u:object_r:svirt_sandbox_file_t:s0:c12,c257",
+- "ProcessLabel": "system_u:system_r:svirt_lxc_net_t:s0:c12,c257",
+- 修改了selinux后重启物理机，导致docker容器selinux前后策略不一致
