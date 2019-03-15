@@ -47,3 +47,7 @@
 
 ## 打包跳过测试
 > mvn clean package -Dmaven.test.skip=true
+
+
+## 只打包某个指定某块（同时打包依赖它，和它依赖的模块）
+mvn clean install  -pl score-center-dist -am -amd -DportableConfig=score-center-core/src/main/resources/portable/test.xml -DskipTests=true
