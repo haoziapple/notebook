@@ -40,3 +40,14 @@
 - [pinpoint](https://github.com/naver/pinpoint)
 - [skywalking](https://github.com/apache/incubator-skywalking)
 - [arthas](https://github.com/alibaba/arthas)
+
+
+## 快速web开发框架
+- [Springboot-CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/cli-using-the-cli.html)
+- [groovy](http://www.groovy-lang.org/index.html)
+- [grails](https://grails.org/)
+- http://tool.oschina.net/apidocs/apidoc?api=grails
+- http://www.kuqin.com/grails-doc-1.0/guide/14.%20Grails%20and%20Spring.html
+- [ruby](https://www.techotopia.com/index.php/Ruby_Essentials)
+- [ruby-on-rails](https://github.com/rails/rails)
+- https://ruby-china.github.io/rails-guides/getting_started.html
