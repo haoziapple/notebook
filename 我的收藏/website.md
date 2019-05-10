@@ -46,7 +46,13 @@
 
 ## blog
 - https://www.cnblogs.com/math/
+- [方糖气球](http://cnblogs.com/)
+- [何登成-数据库大牛](http://hedengcheng.com/)
 
 ## 在线沙盒
 - https://www.katacoda.com/
 - [play-with-docker: http://play-with-docker.com, https://github.com/lean-soft/play-with-docker](https://github.com/play-with-docker/play-with-docker)
+
+
+## 文档Doc
+- [Java Servlet 3.1 Specification-Servlet规范](https://waylau.gitbooks.io/servlet-3-1-specification/)
