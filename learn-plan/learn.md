@@ -34,3 +34,11 @@
 
 ## 爬虫
 jsoup，webmagic
+
+## 学习blog
+- [A guide to setting up Vim for JavaScript development](https://freshman.tech/vim-javascript/)
+
+## 学习repo
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
