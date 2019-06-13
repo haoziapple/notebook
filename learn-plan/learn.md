@@ -42,3 +42,5 @@ jsoup，webmagic
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+- [Java学习+面试指南: 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+- [leetcode解题之路](https://github.com/azl397985856/leetcode)
