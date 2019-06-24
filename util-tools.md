@@ -23,3 +23,6 @@ nc,nmap
 # 效率工具
 - 资源管理：xplorer,total commander
 - TeX写作工具：http://www.texts.io/，https://github.com/wingjay/resume-latex-chinese-support
+
+# 加星收藏
+- [记忆卡片--用来背东西的](https://apps.ankiweb.net/)
