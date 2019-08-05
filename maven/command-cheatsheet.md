@@ -21,6 +21,8 @@
 ## 远程部署到Nexus
 > mvn deploy:deploy-file -DgroupId=com.fzrj.framework -Dversion=1.0.0 -Dpackaging=jar -DartifactId=starter-parent-archtype -Dfile=F:\gitProject\spring_demo\archetype\target\starter-parent-archetype-1.0.0.jar -Durl=http://10.108.26.220:8081/nexus/content/repositories/thirdparty/ -DrepositoryId=nexus-service
 
+> mvn deploy:deploy-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.3 -Dpackaging=jar -Dfile=ojdbc6-11.2.0.3.jar -Durl=http://192.168.2.102:8081/repository/maven-releases -DrepositoryId=maven-releases
+
 > pom.xml里配置了distributionManagement的话可以简单的使用mvn deploy
 
 ## 部署第三方jar包到Maven
