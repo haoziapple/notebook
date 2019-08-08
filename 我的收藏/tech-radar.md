@@ -61,6 +61,7 @@
 - [jhipster-registry](https://github.com/jhipster/jhipster-registry)
 - [jhipster-console](https://github.com/jhipster/jhipster-console)
 - [Moss](https://github.com/SpringCloud/Moss)
+- [apollo--配置中心](https://github.com/ctripcorp/apollo)
 
 ## OSS对象存储
 - [minio](https://github.com/minio/minio)
