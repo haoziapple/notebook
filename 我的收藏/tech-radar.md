@@ -10,7 +10,6 @@
 - [rxjava--响应式多线程编程](http://reactivex.io)
 - [Akka--Actor多线程](https://akka.io/)
 - [axis--集成webservice](http://axis.apache.org/axis2/java/core/)
-- [kettle--数据迁移工具](http://www.kettle.net.cn/)
 - [openfire--即时通讯服务器](http://www.igniterealtime.org/projects/openfire/index.jsp)
 - [karaf--轻量级的OSGi容器](http://karaf.apache.org/)
 - [raml--Http Api管理工具](https://raml.org/)
@@ -25,10 +24,10 @@
 - [ratpack--微服务java栈](https://ratpack.io)
 - [keycloak--访问管理方案](https://www.keycloak.org/)
 
-- [fescar--阿里的分布式事务解决方案](https://github.com/alibaba/fescar)
 - [kong--基于nginx的网关](https://konghq.com/)
 - [drools规则引擎](https://www.drools.org/)
 - [tiles2：jsp框架](https://attic.apache.org/projects/tiles.html)
+- [Sentinel流控](https://github.com/alibaba/Sentinel)
 
 ## 代码生成
 - [yeoman](https://yeoman.io/)
@@ -36,12 +35,14 @@
 
 ## 运维-开发工作流
 - [Jib--把java项目打包成Docker镜像](https://github.com/GoogleContainerTools/jib)
+- [opendevops-运维平台](https://github.com/opendevops-cn/opendevops)
 
 ## APM性能监控
 - [pinpoint](https://github.com/naver/pinpoint)
 - [skywalking](https://github.com/apache/incubator-skywalking)
 - [arthas](https://github.com/alibaba/arthas)
-
+- [prometheus](https://github.com/prometheus/)
+- [grafana](https://github.com/grafana)
 
 ## 快速web开发框架
 - [Springboot-CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/cli-using-the-cli.html)
@@ -54,3 +55,25 @@
 - https://ruby-china.github.io/rails-guides/getting_started.html
 - [clojure](https://www.clojure.org/)
 - [tapestry--web开发框架](http://tapestry.apache.org/)
+
+## 微服务中间件
+- [nacos](https://github.com/alibaba/nacos)
+- [jhipster-registry](https://github.com/jhipster/jhipster-registry)
+- [jhipster-console](https://github.com/jhipster/jhipster-console)
+- [Moss](https://github.com/SpringCloud/Moss)
+
+## OSS对象存储
+- [minio](https://github.com/minio/minio)
+
+## 数据相关
+- [canal](https://github.com/alibaba/canal)
+- [fescar--阿里的分布式事务解决方案](https://github.com/alibaba/fescar)
+- [kettle--数据迁移工具](http://www.kettle.net.cn/)
+- [CBoard-智能报表](https://github.com/TuiQiao/CBoard)
+- [EasyReport--智能报表、动态报表](https://github.com/xianrendzw/EasyReport)
+- [ClickHouse](https://github.com/yandex/ClickHouse)
+- [pinot](https://github.com/apache/incubator-pinot)
+
+## Just For Fun
+- [rclone-文件同步工具，支持多种文件存储](https://github.com/rclone/rclone)
+- [RSSHub-万物皆可RSS](https://github.com/DIYgod/RSSHub)
