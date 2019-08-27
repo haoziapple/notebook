@@ -29,6 +29,12 @@
 - [tiles2：jsp框架](https://attic.apache.org/projects/tiles.html)
 - [Sentinel流控](https://github.com/alibaba/Sentinel)
 
+- [Vert.x--JVM响应式Web编程工具箱](https://github.com/eclipse-vertx/vert.x/)
+- [VX-API-Gateway--基于vert.x的服务网关](https://github.com/EliMirren/VX-API-Gateway)
+- [SparkJava--JavaWeb开发微框架](https://github.com/perwendel/spark/)
+- [micronaut--云原生、serverless的JavaWeb开发框架，很新，重点关注](https://micronaut.io/)
+- [Javalin--使用Java和Kotlin的极简开发框架](https://github.com/tipsy/javalin/)
+
 ## 代码生成
 - [yeoman](https://yeoman.io/)
 - [Schematics的介绍](https://zhuanlan.zhihu.com/p/54092504)
