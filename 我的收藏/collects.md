@@ -8,6 +8,8 @@
 - 想读的书：Structure and Interpretation of Computer Programs(Scheme入门圣经)
 - [想进行一些二次开发：对微服务进行服务治理spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)
 - [一套springcloud开发框架，可以借鉴](https://gitee.com/minull/ace-security)
+- [reddit的图片收集，需要翻墙](https://redditix.com/)
+- [罗辑集](http://www.luojiji.com/forum-LJSWW-1.html)
 
 ## 学习仓库
 - https://github.com/wingjay/HelloJava
