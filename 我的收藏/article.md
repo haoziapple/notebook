@@ -7,3 +7,5 @@
 - [使用jib快速将一个java应用打包成docker镜像](https://jaxenter.com/jib-java-containerization-146647.html)
 - [使用 Cookie 实现公有云会话跟踪](https://www.ibm.com/developerworks/cn/web/wa-session-tracking-using-cookies/index.html)
 - [redis超时原因系统性排查](https://cloud.tencent.com/developer/article/1044436)
+
+- [数据库连接池、连接数调优](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
