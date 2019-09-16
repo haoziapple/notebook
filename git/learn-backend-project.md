@@ -5,6 +5,16 @@
 - [给部门制定的代码框架模板](https://github.com/xwjie/PLMCodeTemplate)
 - [使用Vue+VueX+ElementUI+SpringBoot的代码框架](https://github.com/xwjie/ElementVueSpringbootCodeTemplate)
 
+- [SpringBlade开发框架-核心模块blade-tool](https://github.com/chillzhuang/blade-tool)
+- [SpringBlade开发框架-github](https://github.com/chillzhuang/SpringBlade)
+- [SpringBlade开发框架-gitee](https://gitee.com/smallc/SpringBlade)
+
+- [Porter是一款数据同步中间件，主要用于解决同构/异构数据库之间的表级别数据同步问题](https://gitee.com/sxfad/porter)
+
+- 快捷运维，代号kjyw, 基于shell、python，运维脚本工具库: https://github.com/aqzt/kjyw,https://gitee.com/aqztcom/kjyw
+
+- nepadmin 基于 layui 的后台单页面模板: https://github.com/fanjyy/nepadmin,https://gitee.com/june000/nep-admin
+
 # 框架学习
 - [Lightning fast and elegant mvc framework for Java8](https://github.com/biezhi/blade)
 
