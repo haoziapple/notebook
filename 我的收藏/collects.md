@@ -13,5 +13,7 @@
 
 ## 学习仓库
 - https://github.com/wingjay/HelloJava
+- [JS正则迷你书](https://github.com/qdlaoyao/js-regex-mini-book)
+- [【从入门到入土】令人脱发的数据库底层设计](https://juejin.im/post/5d6f3efde51d4561fd6cb548)
 
 - [阿里企业上云最佳实践](https://www.aliyun.com/acts/best-practice/index)
