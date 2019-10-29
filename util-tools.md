@@ -21,6 +21,7 @@ nc,nmap
 - Java Service Wrapper(JSW)：可以将Java应用程序封装成Windows服务（service）或Unix守护程序（daemon）的程序
 - supervisor: 守护进程管理工具(http://www.supervisord.org/)
 - PdMan：开源免费的数据库模型建模工具(https://gitee.com/robergroup/pdman)
+- [mapstruct-vo与do互转工具](https://mapstruct.org/)
 
 # 效率工具
 - 资源管理：xplorer,total commander
