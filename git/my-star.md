@@ -56,6 +56,8 @@
 ## 测试相关
 - [easy-mock:一个可视化, 并且能快速生成模拟数据的持久化服务](https://github.com/easy-mock/easy-mock)
 - [pupeteer:Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer)
+- [ashot-WebDriver Screenshot utility,可以用来截屏网页,java](https://github.com/pazone/ashot)
+- [jBrowserDriver-使用java的无头浏览器，用来做自动化或爬虫](https://github.com/MachinePublishers/jBrowserDriver)
 
 ## Just For Fun
 - [XiaoV, 一个用 Java 写的 QQ 聊天机器人 Web 服务(可能用于监控服务的自动报警功能)](https://github.com/b3log/xiaov)
