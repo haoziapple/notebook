@@ -41,3 +41,12 @@
 
 
 ## 前端项目
+
+
+## 调研的几个爬虫平台
+- [spider-基于webmagic的爬虫平台，重点看下这个](https://github.com/gsh199449/spider.git)
+
+- [easycrawl-简单使用了webmagic，只有后端源码](https://gitee.com/mountFuji/easycrawl.git)
+- [spider-flow](https://gitee.com/jmxd/spider-flow.git)
+- [Spiderman2](https://gitee.com/l-weiwei/Spiderman2.git)
+- [一个安全工具箱，好像有爬虫功能](https://gitee.com/haozixiaowang/TrackRay.git )
