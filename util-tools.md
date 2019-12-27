@@ -22,6 +22,7 @@ nc,nmap
 - supervisor: 守护进程管理工具(http://www.supervisord.org/)
 - PdMan：开源免费的数据库模型建模工具(https://gitee.com/robergroup/pdman)
 - [mapstruct-vo与do互转工具，类似工具：Dozer,modelMapper,Selma,Orika](https://mapstruct.org/)
+- [Sourcetrail - free and open-source interactive source explorer,代码查看工具](https://github.com/CoatiSoftware/Sourcetrail)
 
 # 效率工具
 - 资源管理：xplorer,total commander

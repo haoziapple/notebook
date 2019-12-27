@@ -17,3 +17,10 @@
 - [【从入门到入土】令人脱发的数据库底层设计](https://juejin.im/post/5d6f3efde51d4561fd6cb548)
 
 - [阿里企业上云最佳实践](https://www.aliyun.com/acts/best-practice/index)
+
+
+## 样例项目
+- [邻家小铺，轻量，简洁的商城系统,包括后台管理，手机h5，小程序，app版 ](https://github.com/microapp-store/linjiashop)
+- [WEB-FLASH -- Admin Framework and Mobile Website Based on Spring Boot and Vue.js](https://github.com/enilu/web-flash)
+- [guns-lite是在guns的基础上将数据库层由mybatis替换为spring data jpa的系统](https://github.com/enilu/guns-lite)
+- https://github.com/stylefeng/Guns
