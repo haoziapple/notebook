@@ -34,3 +34,8 @@ nc,nmap
 # Zip
 - https://github.com/zeroturnaround/zt-zip
 - https://github.com/srikanth-lingala/zip4j
+
+
+# 多媒体
+- [musicxml-用来定义乐谱的xml格式](https://www.musicxml.com/)
+- [Sibelius,西贝柳斯-打谱软件](https://www.avid.com/sibelius-ultimate)
