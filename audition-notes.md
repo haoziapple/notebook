@@ -75,3 +75,23 @@
 - shell 查看占用端口
 - shell 查看是否有文件存在
 - 存过的优缺点
+
+中软/软通/华为
+- mysql如何监控，如何优化，有什么可视化工具
+- java命令行，jps，jstat，jmap，如何查看内存溢出，如何dump出堆内存，如何查看加载了哪些类
+- jprofiler如何连接远程的java进程
+- jvm垃圾回收器有哪几种类型，如何指定使用某种垃圾回收器
+- jvm调优，jvm的内存模型
+- 垃圾回收stop the world是怎么一回事，是不是所有回收器都有这种机制
+- sleep和wait的区别
+- 设计模式和使用的场景
+- 分库分表的策略,分表后查前10的数据如何查
+- 消息队列的使用，rabbitmq，kafka，exactly once是否支持（kafka已成为业界标准？支持事务，exactly once）
+- 算法是否有了解
+- 容器docker，镜像里面打了哪些东西
+- 安全性，哪些请求头要过滤，前端安全，sql注入问题-mybatis，接口加密、验签
+- 网络支持，tcp三次握手，四次挥手，抓包
+- 数据库mysql，oracle，nosql
+- 服务如何扩容、缩容
+- mysql如何在代码中显式的加锁、释放锁
+- 如何查询定位mysql当中的死锁问题
