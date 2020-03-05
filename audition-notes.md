@@ -106,3 +106,4 @@
 - Tomcat启动是如何启动spring的，Springboot是如何启动内嵌容器的（没答上来）
 
 - 一道算法题：太阳帆问题，所有杆子长度不等都是整数，间隔1m站立，太阳帆的高度取决于最短的杆子，寻找最大可能的太阳帆面积
+- [【算法】直方图中最大面积问题](https://blog.csdn.net/nisxiya/article/details/46562951)
