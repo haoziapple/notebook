@@ -80,7 +80,9 @@
 - mysql如何监控，如何优化，有什么可视化工具
 - java命令行，jps，jstat，jmap，如何查看内存溢出，如何dump出堆内存，如何查看加载了哪些class类
 - jprofiler如何连接远程的java进程
-- jvm垃圾回收器有哪几种类型，如何指定使用某种垃圾回收器
+- jvm监控工具的使用：MAT，VisualVM，YourKit，JProfiler
+- xin
+- jvm垃圾回收器有哪几种类型，如何指定使用某种垃圾回收器，G1回收器的作用原理
 - jvm调优，jvm的内存模型
 - 垃圾回收stop the world是怎么一回事，是不是所有回收器都有这种机制
 - sleep和wait的区别
@@ -95,6 +97,11 @@
 - 服务如何扩容、缩容
 - mysql如何在代码中显式的加锁、释放锁
 - 如何查询定位mysql当中的死锁问题
+- 反射的使用和使用场景
+- 软件四大设计原则？使用场景（没有完全答上来）SOLID原则？
+- 开发如何做自测，Mock的使用，数据层DAO怎么Mock？
+- 爬虫，如何解决反爬？爬虫集群的调度问题
+- classLoader的类型，工作机制
 
 - zk和eureka的区别，zk的机制-paxos协议？
 - dubbo的工作机制
